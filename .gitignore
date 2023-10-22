@@ -1,0 +1,8 @@
+tokens
+__pycache__
+example
+q.txt
+*.macro
+log.*
+out.*
+test.py
